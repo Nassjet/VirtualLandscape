@@ -25,7 +25,7 @@ Une fois les objectifs du projet établis, nous aborderons la création et l'uti
 
 Je me suis inspiré de l'univers de Minecraft pour créer ce paysage ainsi que d'un désert. Les rectangles créant des formes rappelant les possibilités infinies de Minecraft, comme l'ile volante, ou alors le portail du Nether (une autre dimension) rappelant directement son univers.
 
-image::capture_ecran/Paysage_minecraft.png[align=center]
+image::capture_ecran/Paysage_minecraft.PNG[align=center]
 
 Nous allons maintenant expliquer l'objet "Nuage", en gardant à l'esprit que la structure du code est la même pour tous les autres objets, à l'exception des valeurs spécifiques et du dessin tracé.
 
